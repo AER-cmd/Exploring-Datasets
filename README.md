@@ -1,6 +1,6 @@
 # Exploring-Datasets
 
-I created this project to learn and maybe help others who are learning and is still in progress, so feel free to correct any mistakes or report issues because; The only real mistake is the one from which we learn nothing !!
+I created this project to learn( still  in progress by the way!) and maybe help others who are learning and is still, so feel free to correct any mistakes or report issues because; The only real mistake is the one from which we learn nothing !!
 
 # Attributions
 
