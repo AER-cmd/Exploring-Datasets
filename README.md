@@ -5,3 +5,4 @@ DOI https://doi.org/10.17876/gaia/dr.3/69
 
 I explore different astrophysical datasets through the usage of different python packages and tools
 I downloaded the solar system objects data from gaia gdr3 survey, https://cdn.gea.esac.esa.int/Gaia/gdr3/Solar_system/, sso-observation/.
+For more Information about the columns, please visit https://gaia.aip.de/metadata/gaiadr3/sso_observation/ .
